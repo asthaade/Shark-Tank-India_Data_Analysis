@@ -1,5 +1,5 @@
 
-<h2>Shark Tank India S1 Data Analysis</h2>
+<h2>Shark Tank India Data Analysis</h2>
 <p>&nbsp;</p>
 
 ![shark tank](https://github.com/Dhanesha151001/Shark_Tank_India_Data_Analysis/assets/103206429/2418dddc-ca33-4c28-8b9a-5f342504305b)
